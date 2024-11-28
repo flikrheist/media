@@ -1,2 +1,2 @@
-# media
+# Media
 My personal media.
